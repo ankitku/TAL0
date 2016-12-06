@@ -1,0 +1,4 @@
+-R . TAL0
+./LibTactics.v
+./Maps.v
+./TAL.v
