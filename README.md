@@ -221,8 +221,6 @@ Theorem Soundness : forall H R Is,
 
 I would like to thank [Chris Casinghino][tyc] for his feedback on the first version of this post.
 
-Complete proofs can be found [here][src].
-
 
 [src]:https://github.com/ankitku/TAL0
 
