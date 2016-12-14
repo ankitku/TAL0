@@ -1,4 +1,4 @@
--R . TAL0
+-R . "" 
 ./LibTactics.v
 ./Maps.v
 ./TAL.v

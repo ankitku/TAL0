@@ -11,8 +11,8 @@
 3. a current instruction sequence I.  
 *)
 
-Require Import Bool Arith Vector LibTactics.
-Require Import Maps.
+Require Import Bool Arith Vector.
+Require Import LibTactics Maps.
 
 Definition registers := total_map nat.
 Definition empty_regs : registers := t_empty 0.
